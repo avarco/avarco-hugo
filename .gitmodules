@@ -1,0 +1,8 @@
+[submodule "avarco/public"]
+	path = avarco/public
+	url = git@github.com:avarco/avarco.github.io.git
+	branch = master
+[submodule "avarco/--name"]
+	path = avarco/--name
+	url = git@github.com:avarco/avarco.github.io.git
+	branch = master
